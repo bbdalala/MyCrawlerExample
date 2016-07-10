@@ -14,12 +14,12 @@ import org.jsoup.nodes.Element;
  * @author Abola Lee
  */
 public class PM25ElasticImport {
-    static String elasticHost = "192.168.38.60" ;
+    static String elasticHost = "192.168.38.120" ;
     static String elasticPort = "9200" ;
     static String elasticIndex = "pm25";
     static String elasticIndexType = "data";
 
-
+//test
     public static void main(String[] args) {
 
         // 遠端資料路徑
