@@ -19,7 +19,7 @@ public class PM25ElasticImport {
     static String elasticIndex = "pm25";
     static String elasticIndexType = "data";
 
-//test
+
     public static void main(String[] args) {
 
         // 遠端資料路徑
